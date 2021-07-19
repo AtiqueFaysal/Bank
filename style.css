@@ -1,0 +1,34 @@
+#log-area{
+    padding: 100px;
+}
+#log-area h1{text-align: center;}
+
+.submit-area{
+    margin-top:50px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+}
+
+#transaction-area{
+    display:none;
+    padding:100px;
+}
+
+.stutus{
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+
+
+
+}
+
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color:salmon;
+
+}
+.balance{background-color:orange;}
